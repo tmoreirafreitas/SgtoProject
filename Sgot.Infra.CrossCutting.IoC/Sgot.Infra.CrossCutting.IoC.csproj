@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Sgot.Domain\Sgot.Domain.csproj" />
+    <ProjectReference Include="..\Sgot.Infra.Data\Sgot.Infra.Data.csproj" />
+    <ProjectReference Include="..\Sgot.Service.Core\Sgot.Service.Core.csproj" />
+    <ProjectReference Include="..\Sgot.Service\Sgot.Service.csproj" />
+  </ItemGroup>
+
+</Project>

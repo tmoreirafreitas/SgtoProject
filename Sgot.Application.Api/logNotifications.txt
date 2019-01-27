@@ -1,0 +1,11 @@
+CommandName: ClienteCreated
+Id: 8a5509e9-b79e-4cee-bde3-512e3ad61609
+Created: 25/01/2019 14:11:29
+
+CommandName: ClienteCreated
+Id: f11ea798-ea9d-4985-9fb2-d90ab511dfed
+Created: 25/01/2019 15:21:51
+
+CommandName: ClienteCreated
+Id: 253a20f6-147c-4615-abfa-6075d6f634d6
+Created: 25/01/2019 15:21:57
